@@ -1,18 +1,1 @@
-# Основные настройки Tor
-SocksPort 9050
-ControlPort 9051
-
-# Отключение нод из стран Альянса 27 глаз и России
-ExcludeNodes {us},{gb},{ca},{au},{nz},{jp},{de},{fr},{nl},{se},{no},{dk},{ie},{ch},{at},{sg},{hk},{it},{es},{pl},{pt},{fi},{cz},{il},{kr}, {ru}
-
-# Отключение нод из других цензурируемых регионов (можно добавить другие страны)
-ExcludeNodes {cn},{in},{ir},{kp},{sy}
-
-# Увеличение безопасности
-DisableNetwork 0
-StrictNodes 1
-
-FascistFirewall 1
-
-Sandbox 1
-
+гег
